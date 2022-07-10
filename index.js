@@ -18,3 +18,8 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
 })
+
+
+//git remote add origin https://github.com/devbyknr/secretstudy.git
+//git branch -M main
+//git push -u origin main
